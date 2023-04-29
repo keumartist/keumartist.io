@@ -1,0 +1,10 @@
+{
+  "name": "keumartist.io",
+  "packageManager": "yarn@3.5.0",
+  "workspaces": [
+    "packages/blog.keumartist.io"
+  ],
+  "devDependencies": {
+    "gatsby": "^5.9.0"
+  }
+}
